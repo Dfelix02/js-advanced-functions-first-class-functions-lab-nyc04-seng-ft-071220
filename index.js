@@ -1,3 +1,3 @@
 const returnFirstTwoDrivers = (arrOfDrivers) => {
-  return console.log(arrOfDrivers.slice(2));
+  return arrOfDrivers.slice(2);
 }
